@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Four card section](https://github.com/Cornelio-II/four-card-feature-section)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -104,7 +104,7 @@ I’d love to hear your thoughts and suggestions about this project! Whether it�
 
 ### Here’s how you can provide feedback:
 
-1. **Report an Issue**: If you encounter a bug or problem, please [open an issue](https://github.com/Timex30/social-links-profile/issues).
+1. **Report an Issue**: If you encounter a bug or problem, please [open an issue](https://github.com/Cornelio-II/four-card-feature-section/issues).
 2. **Feature Requests**: Have an idea for improvement? Let us know by creating a feature request.
 3. **Email Us**: Prefer direct communication? Feel free to send your feedback to [https://bsky.app/profile/cornelio30.bsky.social](https://bsky.app/profile/cornelio30.bsky.social).
 
