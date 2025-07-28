@@ -97,12 +97,12 @@ As with the Flexbox resources above, there are some excellent free CSS Grid lear
 - [Grid Garden](https://cssgridgarden.com/) - Similar to Flexbox Froggy, this game is fun to test your CSS Grid knowledge before diving into realistic projects.
 
 
-## Please hear me out you suggestion to improve my challenge in FEM?
+### Please hear me out you suggestion to improve my challenge in FEM?
 
 I’d love to hear your thoughts and suggestions about this project! Whether it’s a bug you’ve found, a feature you’d like to see, or just general feedback, your input is highly valuable to me.
 
 
-## Here’s how you can provide feedback:
+### Here’s how you can provide feedback:
 
 1. **Report an Issue**: If you encounter a bug or problem, please [open an issue](https://github.com/Timex30/social-links-profile/issues).
 2. **Feature Requests**: Have an idea for improvement? Let us know by creating a feature request.
