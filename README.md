@@ -53,6 +53,8 @@ The code snippets:
 
 ```html
 <h1>Some HTML code I'm proud of this challenge is?</h1>
+<p class="proud-of-this-css">Semantic Html(A11y)</p>
+<h2>Some CSS code I'm proud of this challenge is?</h2>
 <p class="proud-of-this-css">Grid and flexbox layout</p><span>how to use it.</span>
 ```
 ```css
