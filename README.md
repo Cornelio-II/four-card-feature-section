@@ -75,7 +75,8 @@ I am continuing to develop additional challenges in FEM to improve my learning s
 
 ### Useful resources
 
-## Here are some excellent resources for learning more about Flexbox if you haven’t had much experience with it yet:
+ Here are some excellent resources for learning more about Flexbox if you haven’t had much experience with it yet:
+
 - [What the Flexbox?!](https://flexbox.io/) - Wes Bos has created a brilliant free course to teach Flexbox box fundamentals.
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Josh Comeau's  helped me for when and how to use flexbox layout. I really liked this pattern and will use it going forward.
 - [Flexbox Froggy](https://flexboxfroggy.com/) - When you think you know your stuff, Flexbox Froggy is a fun game that tests your knowledge.
@@ -85,7 +86,7 @@ I am continuing to develop additional challenges in FEM to improve my learning s
 
 ### Useful resources
 
-## As with the Flexbox resources above, there are some excellent free CSS Grid learning resources out there:
+As with the Flexbox resources above, there are some excellent free CSS Grid learning resources out there:
 
 - [CSS Grid](https://cssgrid.io/) - This free course by Wes Bos, in partnership with Mozilla Firefox, teaches you all about CSS Grid.
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - Josh Comeau's  is an amazing article which helped me  understand how to use gridbox layout. I'd recommend it to anyone still learning this concept.
