@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Four card section](https://github.com/Cornelio-II/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Four card section](https://cornelio-ii.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -112,7 +112,7 @@ I appreciate your support and contributions to making this project better!
 
 
 ## Author
-- Frontend Mentor - [@Timex29](https://www.frontendmentor.io/profile/Timex29)
+- Frontend Mentor - [@Cornelio-II](https://www.frontendmentor.io/profile/Cornelio-II)
 - x - [@LlagasCornelio](https://x.com/LlagasCornelio)
 - bsky.app- [@cornelio30.bsky.social](https://bsky.app/profile/cornelio30.bsky.social)
   
