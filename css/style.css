@@ -96,7 +96,7 @@ body{
     border-block-start: var(--blue-color) 0.25rem solid; /* border-top for internationalization */
     padding: clamp(1.5rem, 2rem, 2rem);
     background-color: var(--white-color);
-    box-shadow: 0rem 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0rem 0.375rem 0.375rem -0.375rem;
+    box-shadow: 0 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0 0.375rem 0.375rem -0.375rem;
     border-radius: 0.375rem; /* 6px for internationalization */
 }
 
