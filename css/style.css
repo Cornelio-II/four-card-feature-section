@@ -49,7 +49,6 @@ body, html{
 }
 
 body{
-    place-content: center;
     display: grid;
     min-height: 100dvh;
     line-height: 1.5;
