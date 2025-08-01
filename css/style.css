@@ -83,7 +83,6 @@ body{
 
 .card-red-color{
     border-block-start: var(--red-color) 0.25rem solid; /* border-top for internationalization */
-    background-color: var(--white-color);
 }
 
 .card-orange-color{
