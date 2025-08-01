@@ -40,7 +40,6 @@ img{
     margin-block-start: clamp(1.5rem, 2vw, 2rem); /* margin-top for internationalization */
 }
 
-
 body, html{
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
@@ -59,46 +58,40 @@ body{
     font-size: var(--fluid-13-15);
 }
 
-
 .container{
     max-inline-size: 1200px;  /*max-width: 100% for internationalization approach*/
     padding: clamp(1.5rem, 2vw, 2rem);
 }
 
+.card-grid{
+    display: grid;
+    gap: clamp(1.5rem, 2vw, 2rem);
+}
+.cards {
+  margin-block-start: clamp(1rem, 2rem + 0.5vw, 1.5rem); /* margin-top for internationalization */
+  box-shadow: 0rem 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0rem 0.375rem 0.375rem -0.375rem;
+  border-radius: 0.375rem; /* 6px for internationalization */
+  background-color: var(--white-color);
+  padding: clamp(1.5rem, 2rem, 2rem);
+  transition: all 0.3s ease-in-out;
+
+}
+
 .card-cyan-color{
-    margin-block-start: 1.5rem; /* margin-top for internationalization */
     border-block-start: var(--cyan-color) 0.25rem solid; /* border-top for internationalization */
-    padding: clamp(1.5rem, 2rem, 2rem);
-    background-color: var(--white-color);
-    box-shadow: 0rem 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0rem 0.375rem 0.375rem -0.375rem;
-    border-radius: 0.375rem; /* 6px for internationalization */
 }
 
 .card-red-color{
-    margin-block-start: 1.5rem; /* margin-top for internationalization */
     border-block-start: var(--red-color) 0.25rem solid; /* border-top for internationalization */
-    padding: clamp(1.5rem, 2rem, 2rem);
     background-color: var(--white-color);
-    box-shadow: 0rem 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0rem 0.375rem 0.375rem -0.375rem;
-    border-radius: 0.375rem; /* 6px for internationalization */
 }
 
 .card-orange-color{
-    margin-block-start: 1.5rem; /* margin-top for internationalization */
     border-block-start: var(--orange-color) 0.25rem solid; /* border-top for internationalization */
-    padding: clamp(1.5rem, 2rem, 2rem);
-    background-color: var(--white-color);
-    box-shadow: 0rem 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0rem 0.375rem 0.375rem -0.375rem;
-    border-radius: 0.375rem; /* 6px for internationalization */
 }
 
 .card-blue-color{
-    margin-block-start: 1.5rem; /* margin-top for internationalization */
     border-block-start: var(--blue-color) 0.25rem solid; /* border-top for internationalization */
-    padding: clamp(1.5rem, 2rem, 2rem);
-    background-color: var(--white-color);
-    box-shadow: 0 0.625rem 1.25rem -0.625rem var(--grey-color-400), var(--grey-color-500) 0 0.375rem 0.375rem -0.375rem;
-    border-radius: 0.375rem; /* 6px for internationalization */
 }
 
 .attribution {
@@ -144,16 +137,15 @@ h2 {
    margin-inline-end: auto; /* margin-right for internationalization */
 }
 
-.card-grid{
-    display: grid;
-    gap: clamp(1.5rem, 2vw, 2rem);
-    transition: all 0.3s ease-in-out;
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
+        scroll-behavior: auto !important;
+    }
 }
-
 @media screen and (min-width: 43.688rem) { /* 699px */
    .card-grid {
-    align-items: start;
-    margin: auto;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
    }
