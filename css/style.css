@@ -109,7 +109,7 @@ a:hover, a:focus {
 .header {
     text-align: center;
     margin-block-start: clamp(1rem, 1.5rem + 1vw, 2rem); /* margin-top for internationalization */
-    margin-block-start: clamp(1rem, 1.5rem + 1vw, 2rem); /* margin-bottom for internationalization */
+    margin-block-end: clamp(1rem, 1.5rem + 1vw, 2rem); /* margin-bottom for internationalization */
 }
 
 h1, span{
